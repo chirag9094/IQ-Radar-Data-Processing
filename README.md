@@ -14,3 +14,8 @@ Radar Data Processing for IQ Data Analysis project focuses on processing raw rad
 3. Data Quality Assurance: Ensures the accuracy and reliability of radar products through rigorous validation and calibration processes.
 
 4. Visualization and Analysis: Provides visualization tools to interpret and analyze radar products, aiding meteorologists and researchers in weather forecasting and analysis.
+
+## Output
+<img src="plot.png">
+<img src="output.png">
+
